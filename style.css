@@ -1,0 +1,14 @@
+body{
+    background-color: black;
+}
+h1{
+    text-align: center;
+    font-size: 4em;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    color: rgb(236, 236, 236);
+}
+
+#form{
+    text-align: center;
+
+}
